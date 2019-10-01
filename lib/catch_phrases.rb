@@ -10,8 +10,8 @@ def toadstool
 end
 
 def link
-  receive_sword = 'It s Dangerous To Go Alone! Take This.'
-  puts receive_sword
+  leaving_now = 'It s Dangerous To Go Alone! Take This.'
+  puts leaving leaving_now
 end
 
 def any_phrase(phrase)
