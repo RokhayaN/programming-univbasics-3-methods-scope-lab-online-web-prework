@@ -14,7 +14,7 @@ def link
   puts leaving_now
 end
 
-def any_phrase(phrase)
+def any_phrase 
   phrase = "do a barrel rool!\n "
   puts phrase
 end 
