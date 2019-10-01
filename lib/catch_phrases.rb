@@ -11,7 +11,7 @@ end
 
 def link
   leaving_now = 'It s Dangerous To Go Alone! Take This.'
-  puts leaving leaving_now
+  puts leaving_now
 end
 
 def any_phrase(phrase)
