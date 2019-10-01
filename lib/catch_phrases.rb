@@ -15,6 +15,7 @@ def link
 end
 
 def any_phrase ("do a barrel rool!\n ")
+  phrase = i love rokhaya
   puts 'phrase'
 end 
 any_phrase
